@@ -21,3 +21,11 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/src/.metadata
+/src/Dieta-Ja/.metadata
+/src/Dieta-Ja/.settings
+/src/Dieta-Ja/.vs
+/src/Dieta-Ja/src/.project
+/src/Dieta-Ja/src/.classpath
+/src/Dieta-Ja/.project
+/src/Dieta-Ja/.classpath
