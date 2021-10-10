@@ -30,7 +30,7 @@ O projeto interdisciplinar faz parte do ciclo de finalização do 4  semestre do
 # POO
 
 - [Diagrama UML]()
-- [Diagrama Casos de Uso]()
+- [Diagrama Casos de Uso](https://github.com/caiobarretta/DietaJa/blob/master/ASW/Diagramas/DietaJ%C3%A1%20-%20Diagrams%20-%20Diagrama%20Casos%20de%20Uso%20-%20DietaJ%C3%A1.jpg)
 - [Código Fonte](https://github.com/caiobarretta/DietaJa/tree/master/src/Dieta-Ja)
 
 # Apresentação
