@@ -17,7 +17,7 @@ O projeto interdisciplinar faz parte do ciclo de finalização do 4  semestre do
 - Demo do sistema funcionando (execução de código); **ASW**
 - Apresentação explicitando tudo o que foi utilizado de conceitos no projeto **POO**
 
-- [Miro Infos]()
+- [Miro Infos](https://miro.com/app/board/o9J_ltHRdZo=/?invite_link_id=639316906863)
 
 # ASW
 
