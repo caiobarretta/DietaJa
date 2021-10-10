@@ -31,7 +31,7 @@ O projeto interdisciplinar faz parte do ciclo de finalização do 4  semestre do
 
 - [Diagrama UML]()
 - [Diagrama Casos de Uso]()
-- [Código Fonte]()
+- [Código Fonte](https://github.com/caiobarretta/DietaJa/tree/master/src/Dieta-Ja)
 
 # Apresentação
 [Slides]()
