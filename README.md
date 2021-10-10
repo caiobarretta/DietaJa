@@ -29,18 +29,16 @@ O projeto interdisciplinar faz parte do ciclo de finalização do 4  semestre do
 
 # POO
 
-- [Diagrama UML]()
+- [Diagrama UML](https://github.com/caiobarretta/DietaJa/blob/master/ASW/Diagramas/UML-DiagramaClasses-DietaJ%C3%A1.png)
 - [Diagrama Casos de Uso](https://github.com/caiobarretta/DietaJa/blob/master/ASW/Diagramas/DietaJ%C3%A1%20-%20Diagrams%20-%20Diagrama%20Casos%20de%20Uso%20-%20DietaJ%C3%A1.jpg)
 - [Código Fonte](https://github.com/caiobarretta/DietaJa/tree/master/src/Dieta-Ja)
 
 # Apresentação
 [Slides]()
 
-
 # Colaboração
 
 <div align="center">
-
 <a href="https://github.com/caiobarretta">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/7398046?v=4" width="100px;" alt="Foto de Perfil Caio Augusto Barretta"/>
  <br />
@@ -48,15 +46,11 @@ O projeto interdisciplinar faz parte do ciclo de finalização do 4  semestre do
  <sub><b>Caio Barretta</b></sub></a>
 <p>
 
-
 [![Github Badge](https://img.shields.io/badge/-Caio_Barretta-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/caiobarretta)
 [![Gmail Badge](https://img.shields.io/badge/-caio.barretta@aluno.ifsp.edu.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caio.barretta@aluno.ifsp.edu.br)](mailto:caio.barretta@aluno.ifsp.edu.br)
-
 <div align="center">
 
-
 <div align="center">
-
 <a href="https://github.com/gabrieleleonel">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/42439114?v=4" width="100px;" alt="Foto de Perfil Gabriele Leonel"/>
  <br />
@@ -67,11 +61,9 @@ O projeto interdisciplinar faz parte do ciclo de finalização do 4  semestre do
 
 [![Github Badge](https://img.shields.io/badge/-Gabriele_Leonel-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/gabrieleleonel)
 [![Gmail Badge](https://img.shields.io/badge/-gabriele.leonel@aluno.ifsp.edu.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriele.leonel@aluno.ifsp.edu.br)](mailto:gabriele.leonel@aluno.ifsp.edu.br)
-
 <div align="center">
 
 <div align="center">
-
 <a href="https://github.com/miziaalmeida">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/42849855?s=400&u=f2dfc70f52e7c272e7865b3582e6cc09fea8f576&v=4" width="100px;" alt="Foto de Mízia Lima"/>
  <br />
@@ -81,6 +73,5 @@ O projeto interdisciplinar faz parte do ciclo de finalização do 4  semestre do
 
 [![Github Badge](https://img.shields.io/badge/-Mízia_Lima-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/miziaalmeida)
 [![Gmail Badge](https://img.shields.io/badge/-mizia.lima@aluno.ifsp.edu.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mizia.lima@aluno.ifsp.edu.br)](mailto:mizia.lima@aluno.ifsp.edu.br)
-
 </div>
 </div>
