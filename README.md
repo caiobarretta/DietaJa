@@ -24,7 +24,7 @@ O projeto interdisciplinar faz parte do ciclo de finalização do 4  semestre do
 - [Diagrama de Contexto](https://github.com/caiobarretta/DietaJa/blob/master/ASW/Diagramas/DiagramaContextoDietaJ%C3%A1-C4Model.png)
 - [Diagrama de Containers](https://github.com/caiobarretta/DietaJa/blob/master/ASW/Diagramas/DiagramaContainerDietaJ%C3%A1-C4Model.vpd.png)
 - [Diagrama de Componentes](https://github.com/caiobarretta/DietaJa/blob/master/ASW/Diagramas/DiagramaComponenteDietaJ%C3%A1-C4Model.vpd.png)
-- [Diagrama de Código]() ⚠️
+- [Diagrama de Código](https://github.com/caiobarretta/DietaJa/blob/master/ASW/Diagramas/UML-DiagramaClasses-DietaJ%C3%A1.png) ⚠️
 
 
 # POO
