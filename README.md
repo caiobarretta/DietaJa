@@ -20,11 +20,11 @@ O projeto interdisciplinar faz parte do ciclo de finalização do 4  semestre do
 - [Miro Infos](https://miro.com/app/board/o9J_ltHRdZo=/?invite_link_id=639316906863)
 
 # ASW
-
 - [Diagrama de Contexto](https://github.com/caiobarretta/DietaJa/blob/master/ASW/Diagramas/DiagramaContextoDietaJ%C3%A1-C4Model.png) ✅
 - [Diagrama de Containers](https://github.com/caiobarretta/DietaJa/blob/master/ASW/Diagramas/DiagramaContainerDietaJ%C3%A1-C4Model.vpd.png) ✅
 - [Diagrama de Componentes](https://github.com/caiobarretta/DietaJa/blob/master/ASW/Diagramas/DiagramaComponenteDietaJ%C3%A1-C4Model.vpd.png) ✅
 - [Diagrama de Código](https://github.com/caiobarretta/DietaJa/blob/master/ASW/Diagramas/ASW%20Diagrama%20de%20C%C3%B3digo.png) ✅
+            ![image](https://user-images.githubusercontent.com/42849855/137366054-43650a6a-77dc-4cd7-ae31-1f8f960ea174.png)
 
 
 # POO
