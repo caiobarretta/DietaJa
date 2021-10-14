@@ -21,20 +21,20 @@ O projeto interdisciplinar faz parte do ciclo de finalização do 4  semestre do
 
 # ASW
 
-- [Diagrama de Contexto](https://github.com/caiobarretta/DietaJa/blob/master/ASW/Diagramas/DiagramaContextoDietaJ%C3%A1-C4Model.png)
-- [Diagrama de Containers](https://github.com/caiobarretta/DietaJa/blob/master/ASW/Diagramas/DiagramaContainerDietaJ%C3%A1-C4Model.vpd.png)
-- [Diagrama de Componentes](https://github.com/caiobarretta/DietaJa/blob/master/ASW/Diagramas/DiagramaComponenteDietaJ%C3%A1-C4Model.vpd.png)
-- [Diagrama de Código](https://github.com/caiobarretta/DietaJa/blob/master/ASW/Diagramas/ASW%20Diagrama%20de%20C%C3%B3digo.png)
+- [Diagrama de Contexto](https://github.com/caiobarretta/DietaJa/blob/master/ASW/Diagramas/DiagramaContextoDietaJ%C3%A1-C4Model.png) ✅
+- [Diagrama de Containers](https://github.com/caiobarretta/DietaJa/blob/master/ASW/Diagramas/DiagramaContainerDietaJ%C3%A1-C4Model.vpd.png) ✅
+- [Diagrama de Componentes](https://github.com/caiobarretta/DietaJa/blob/master/ASW/Diagramas/DiagramaComponenteDietaJ%C3%A1-C4Model.vpd.png) ✅
+- [Diagrama de Código](https://github.com/caiobarretta/DietaJa/blob/master/ASW/Diagramas/ASW%20Diagrama%20de%20C%C3%B3digo.png) ✅
 
 
 # POO
 
-- [Diagrama UML](https://github.com/caiobarretta/DietaJa/blob/master/ASW/Diagramas/UML-DiagramaClasses-DietaJ%C3%A1.png)
-- [Diagrama Casos de Uso](https://github.com/caiobarretta/DietaJa/blob/master/ASW/Diagramas/DietaJ%C3%A1%20-%20Diagrams%20-%20Diagrama%20Casos%20de%20Uso%20-%20DietaJ%C3%A1.jpg)
-- [Código Fonte](https://github.com/caiobarretta/DietaJa/tree/master/src/Dieta-Ja)
+- [Diagrama UML](https://github.com/caiobarretta/DietaJa/blob/master/ASW/Diagramas/UML-DiagramaClasses-DietaJ%C3%A1.png) ✅
+- [Diagrama Casos de Uso](https://github.com/caiobarretta/DietaJa/blob/master/ASW/Diagramas/DietaJ%C3%A1%20-%20Diagrams%20-%20Diagrama%20Casos%20de%20Uso%20-%20DietaJ%C3%A1.jpg) ✅
+- [Código Fonte](https://github.com/caiobarretta/DietaJa/tree/master/src/Dieta-Ja) ⚠️
 
 # Apresentação
-[Slides]()
+[Slides]() ⚠️
 
 # Colaboração
 
