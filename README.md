@@ -21,16 +21,16 @@ O projeto interdisciplinar faz parte do ciclo de finalização do 4  semestre do
 
 # ASW
 - [Diagrama de Contexto](https://github.com/caiobarretta/DietaJa/blob/master/ASW/Diagramas/DiagramaContextoDietaJ%C3%A1-C4Model.png) ✅
-    - <img width="500" alt="Diagrama de código" src="https://user-images.githubusercontent.com/42849855/137366578-28a7c747-d7e3-4600-b6c8-af6028230fa7.png">
+  |<img width="500" alt="Diagrama de código" src="https://user-images.githubusercontent.com/42849855/137366578-28a7c747-d7e3-4600-b6c8-af6028230fa7.png">|
     
 - [Diagrama de Containers](https://github.com/caiobarretta/DietaJa/blob/master/ASW/Diagramas/DiagramaContainerDietaJ%C3%A1-C4Model.vpd.png) ✅
     - <img width="500" alt="Diagrama de código" src="https://user-images.githubusercontent.com/42849855/137366695-10e295af-9534-4e41-b60c-0ff52d219f3d.png">
 
 - [Diagrama de Componentes](https://github.com/caiobarretta/DietaJa/blob/master/ASW/Diagramas/DiagramaComponenteDietaJ%C3%A1-C4Model.vpd.png) ✅
-    <img width="500" alt="Diagrama de componentes" src="https://user-images.githubusercontent.com/42849855/137366418-8d6ea92b-fce1-481e-b83e-23d332baa92e.png">
+    - <img width="500" alt="Diagrama de componentes" src="https://user-images.githubusercontent.com/42849855/137366418-8d6ea92b-fce1-481e-b83e-23d332baa92e.png">
     
 - [Diagrama de Código](https://github.com/caiobarretta/DietaJa/blob/master/ASW/Diagramas/ASW%20Diagrama%20de%20C%C3%B3digo.png) ✅
-    <img width="500" alt="Diagrama de código" src="https://user-images.githubusercontent.com/42849855/137366054-43650a6a-77dc-4cd7-ae31-1f8f960ea174.png">
+    - <img width="500" alt="Diagrama de código" src="https://user-images.githubusercontent.com/42849855/137366054-43650a6a-77dc-4cd7-ae31-1f8f960ea174.png">
 
 # POO
 - [Diagrama UML](https://github.com/caiobarretta/DietaJa/blob/master/POO/DiagramaClasses-DietaJ%C3%A1.png) ✅
