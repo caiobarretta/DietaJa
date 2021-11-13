@@ -1,5 +1,12 @@
 # DietaJá - Projeto do IFSP
 
+## Participantes:
+
+### CP300354X - Caio Augusto Barretta.
+### CP3008118 - Mízia Sousa Almeida Lima.
+### CP3003515 - Gabriele Leonel.
+
+
 # Sobre
 O projeto interdisciplinar faz parte do ciclo de finalização do 4  semestre do curso de Análise e Desenvolvimento de Sistemas do IFSP - campus Campinas. O projeto interdisciplinar integra sempre 2 ou mais disciplinas a fim de desenvolver o conhecimento teórico de maneira prática. Neste semestre as disciplinas Programação Orientada a Objetos e Arquitetura de Software foram as escolhidas para compor a grade.
 
@@ -20,24 +27,31 @@ O projeto interdisciplinar faz parte do ciclo de finalização do 4  semestre do
 - [Miro Infos](https://miro.com/app/board/o9J_ltHRdZo=/?invite_link_id=639316906863)
 
 # ASW
+- [Diagrama de Contexto](https://github.com/caiobarretta/DietaJa/blob/master/ASW/Diagramas/DiagramaContextoDietaJ%C3%A1-C4Model.png) ✅
+    - <img width="500" alt="Diagrama de contexto" src="https://user-images.githubusercontent.com/42849855/137366578-28a7c747-d7e3-4600-b6c8-af6028230fa7.png">
+    
+- [Diagrama de Containers](https://github.com/caiobarretta/DietaJa/blob/master/ASW/Diagramas/DiagramaContainerDietaJ%C3%A1-C4Model.vpd.png) ✅
+    - <img width="500" alt="Diagrama de containers" src="https://user-images.githubusercontent.com/42849855/137366695-10e295af-9534-4e41-b60c-0ff52d219f3d.png">
 
-- [Diagrama de Contexto](https://github.com/caiobarretta/DietaJa/blob/master/ASW/Diagramas/DiagramaContextoDietaJ%C3%A1-C4Model.png)
-- [Diagrama de Containers](https://github.com/caiobarretta/DietaJa/blob/master/ASW/Diagramas/DiagramaContainerDietaJ%C3%A1-C4Model.vpd.png)
-- [Diagrama de Componentes](https://github.com/caiobarretta/DietaJa/blob/master/ASW/Diagramas/DiagramaComponenteDietaJ%C3%A1-C4Model.vpd.png)
-- [Diagrama de Código]() ⚠️
-
+- [Diagrama de Componentes](https://github.com/caiobarretta/DietaJa/blob/master/ASW/Diagramas/DiagramaComponenteDietaJ%C3%A1-C4Model.vpd.png) ✅
+    - <img width="500" alt="Diagrama de componentes" src="https://user-images.githubusercontent.com/42849855/137366418-8d6ea92b-fce1-481e-b83e-23d332baa92e.png">
+    
+- [Diagrama de Código](https://github.com/caiobarretta/DietaJa/blob/master/ASW/Diagramas/ASW%20Diagrama%20de%20C%C3%B3digo.png) ✅
+    - <img width="500" alt="Diagrama de código" src="https://user-images.githubusercontent.com/42849855/137366054-43650a6a-77dc-4cd7-ae31-1f8f960ea174.png">
 
 # POO
+- [Diagrama UML](https://github.com/caiobarretta/DietaJa/blob/master/POO/DiagramaClasses-DietaJ%C3%A1.png) ✅
+    - <img width="500" alt="Diagrama de classes UML" src="https://user-images.githubusercontent.com/42849855/137368154-013c60f2-693f-4df7-838a-70334d9cf4b4.png">
 
-- [Diagrama UML](https://github.com/caiobarretta/DietaJa/blob/master/ASW/Diagramas/UML-DiagramaClasses-DietaJ%C3%A1.png)
-- [Diagrama Casos de Uso](https://github.com/caiobarretta/DietaJa/blob/master/ASW/Diagramas/DietaJ%C3%A1%20-%20Diagrams%20-%20Diagrama%20Casos%20de%20Uso%20-%20DietaJ%C3%A1.jpg)
-- [Código Fonte](https://github.com/caiobarretta/DietaJa/tree/master/src/Dieta-Ja)
+- [Diagrama Casos de Uso](https://github.com/caiobarretta/DietaJa/blob/master/POO/DietaJ%C3%A1%20-%20Diagrams%20-%20Diagrama%20Casos%20de%20Uso%20-%20DietaJ%C3%A1.jpg) ✅
+    - <img width="500" alt="Diagrama de casos de uso" src="https://user-images.githubusercontent.com/42849855/137368264-199e55d4-925d-4a61-80b2-fde0fe1005d2.png">
+
+- [Código Fonte](https://github.com/caiobarretta/DietaJa/tree/master/src/Dieta-Ja) ⚠️
 
 # Apresentação
-[Slides]()
+[Slides]() ⚠️
 
 # Colaboração
-
 <div align="center">
 <a href="https://github.com/caiobarretta">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/7398046?v=4" width="100px;" alt="Foto de Perfil Caio Augusto Barretta"/>
