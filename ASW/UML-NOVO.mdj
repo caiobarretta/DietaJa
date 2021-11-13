@@ -5058,7 +5058,7 @@
 					"_parent": {
 						"$ref": "AAAAAAF4qUphljmU088="
 					},
-					"name": "AOO",
+					"name": "POO",
 					"ownedViews": [
 						{
 							"_type": "UMLPackageView",
