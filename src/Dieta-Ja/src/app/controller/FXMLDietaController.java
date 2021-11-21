@@ -27,7 +27,7 @@ import services.PorcaoDeAlimentoService;
 
 public class FXMLDietaController extends DefaultControllerTemplateMethod<DietaDTO, Dieta> {
 	
-	final DietaService dietaService;
+	private final DietaService dietaService;
 	public FXMLDietaController(Container container, Usuario usuario) {
 		super(container, usuario);
 		// TODO Auto-generated constructor stub
