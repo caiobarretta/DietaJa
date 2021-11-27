@@ -48,13 +48,11 @@ Os seguintes diagramas foram desenhados para apresentar os principais objetivos 
 
   - [x] Casos de Uso
     <br><img src="https://user-images.githubusercontent.com/42849855/143663890-462bcf7a-eb47-4b37-a5f9-09889b04374a.png" width="500px;" alt="" style="border-radius:50%"/>
-  - [x] Diagrama de Classes
+  - [x] Diagrama de Classes / Diagrama de Código
     <br><img src="https://user-images.githubusercontent.com/42849855/143663907-5eddff8c-fcf8-41fe-b63d-6ca77b807519.png" width="500px;" alt="" style="border-radius:50%"/>
     
   - [x] Diagrama de Contexto
     <br><img src="https://user-images.githubusercontent.com/42849855/143664070-d6b712d1-645e-467a-bcce-46909054c209.png" width="500px;" alt="" style="border-radius:50%"/>
-  - [x] Diagrama de Código
-    <br><img src="https://user-images.githubusercontent.com/42849855/143664038-ff870046-e5c5-421d-9b29-c771175e7a6a.png" width="500px;" alt="" style="border-radius:50%"/>
   - [x] Diagrama de Container
   <br><img src="https://user-images.githubusercontent.com/42849855/143664082-80c68ecd-1499-4718-b367-84253607a46c.png" width="500px;" alt="" style="border-radius:50%"/>
   - [x] Diagrama de Componentes
