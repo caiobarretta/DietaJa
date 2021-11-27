@@ -5,11 +5,16 @@
 <p align="center">
   <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-ferramentas e tecnologias">Ferramentas e Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-conceitos">Conceitos Utilizados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-diagramas">Diagramas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-integrantes">Integrantes</a>
 </p>
 
 <br>
+
+<p align="center">
+    🤝 <b>Time</b>: Caio Barreta - CP300354X &nbsp;| Gabriele Leonel - CP3003515 &nbsp;| Mízia Lima - CP3008118 
+</p>
 
 ## 💻 Sobre
 
@@ -27,6 +32,15 @@ O **DietaJá** consiste em uma aplicação Desktop
 
 - [Java] ??
 - [JUnit] ??
+
+## 📚 Conceitos utilizados
+- [x] Conceitos de POO (Herança, Polimorfismo, Abstração, Encapsulamento);
+- [x] SOLID;
+- [x] Clean Code;
+- [x] Design Patterns - **Factory**, **Strategy**, **ChainOfResponsability**, **Template Method**;
+- [x] Persistência de Dados - DAO; 
+- [x] Arquitetura MVC;
+
     
 ## 🗺️ Diagramas 
 
@@ -55,7 +69,7 @@ Os seguintes diagramas foram desenhados para apresentar os principais objetivos 
         <br/>
         <img src="https://avatars.githubusercontent.com/u/7398046?v=4" width="100px;" alt="" style="border-radius:50%"/>
         <br/>
-        Contate-me
+        Contatos
         <p align="left">
             <a href="https://github.com/caiobarretta" target="_blank">
               <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="GitHub-icon" width="30" height="30"/>
@@ -71,7 +85,7 @@ Os seguintes diagramas foram desenhados para apresentar os principais objetivos 
         <br/>
         <img src="https://avatars.githubusercontent.com/u/42439114?v=4" width="100px;" alt="" style="border-radius:50%"/> 
         <br/>
-        Contate-me
+        Contatos
         <p align="left">
             <a href="https://github.com/gabrieleleonel" target="_blank">
               <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="GitHub-icon" width="30" height="30"/>
@@ -88,7 +102,7 @@ Os seguintes diagramas foram desenhados para apresentar os principais objetivos 
         <br/>
         <img src="https://avatars.githubusercontent.com/u/42849855?s=400&u=f2dfc70f52e7c272e7865b3582e6cc09fea8f576&v=4" width="100px;" alt="" style="border-radius:50%"/> 
         <br/>
-        Contate-me
+        Contatos
         <p align="left">
             <a href="https://github.com/miziaalmeida" target="_blank">
               <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="GitHub-icon" width="30" height="30"/>
