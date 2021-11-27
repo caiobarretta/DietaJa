@@ -12,9 +12,9 @@
 
 <br>
 
-<p align="center">
-    🤝 <b>Time</b>: Caio Barreta - CP300354X &nbsp;| Gabriele Leonel - CP3003515 &nbsp;| Mízia Lima - CP3008118 
-</p>
+<h4 align="center">
+    🤝 <b>Time</b>: <b>Caio Barreta</b> - CP300354X &nbsp;| <b>Gabriele Leonel</b> - CP3003515 &nbsp;| <b>Mízia Lima</b> - CP3008118 
+</h4>
 
 ## 💻 Sobre
 
