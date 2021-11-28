@@ -5,15 +5,14 @@
 <p align="center">
   <a href="#-integrantes">Integrantes</a> •
   <a href="#sobre">Sobre</a> •
-  <a href="#ferramentas">Ferramentas e Tecnologias</a> •
-  <a href="#conceitos">Conceitos Utilizados</a> •
-  <a href="#ASW">ASW</a> •
-  <a href="#POO">POO</a> •
+  <a href="#ferramentas-e-tecnologias-utilizadas">Ferramentas e Tecnologias</a> •
+  <a href="#-conceitos-utilizados">Conceitos Utilizados</a> •
+  <a href="#----arquitetura-de-software---asw">ASW</a> •
+  <a href="#----programação-orientada-a-objetos---poo">POO</a> •
 </p>
 <br>
 
 ---
-
 ## 👐 Integrantes
 <table>
 <tr>
@@ -69,10 +68,10 @@
 </tr>
 </table>
 
-## Sobre
+## 💻 Sobre
 O **DietaJá** consiste em uma aplicação Desktop criada para facilitar a criação e acompanhamento de dietas de nutricionistas x pacientes. Através do sistema é possível ao **Nutricionista** cadastrar, editar e deletar porções de alimentos e dietas bem como acompanhar os registros de atividades dos seus pacientes. E o **Paciente** por sua vez pode acompanhar a dieta e as recomendações de porções de alimento prescritas na sua *dieta personalizada*, além de poder incluir seu registro de atividades informando o que comeu, turno, sentimento com respeito à sua dieta e comentários.
 
-## Ferramentas e Tecnologias utilizadas:
+## ⚙️ Ferramentas e Tecnologias utilizadas:
 - [x] **Java**
 - [x] **JUnit**
 - [x] [StarUML](https://staruml.io/)
@@ -93,15 +92,22 @@ O **DietaJá** consiste em uma aplicação Desktop criada para facilitar a cria�
     Arquitetura de Software - ASW
 </h1>
 
-
 ## 🗺️ Diagramas C4 Model
-- [x] Diagrama de Contexto
+<h3 align="center">
+    Diagrama de Contexto
+</h3> 
     <br><img src="https://user-images.githubusercontent.com/42849855/143664070-d6b712d1-645e-467a-bcce-46909054c209.png" width="500px;" alt="" style="border-radius:50%"/>
-- [x] Diagrama de Containers
+<h3 align="center">
+    Diagrama de Containers
+</h3> 
   <br><img src="https://user-images.githubusercontent.com/42849855/143664082-80c68ecd-1499-4718-b367-84253607a46c.png" width="500px;" alt="" style="border-radius:50%"/>
-- [x] Diagrama de Componentes
+<h3 align="center">
+    Diagrama de Componentes
+</h3>
   <br><img src="https://user-images.githubusercontent.com/42849855/143664105-593d66b7-11c4-48a7-949d-cebfca465c4a.png" width="500px;" alt="" style="border-radius:50%"/>
-- [x] Diagrama de Código
+<h3 align="center">
+    Diagrama de Código
+</h3>
     <br><img src="https://user-images.githubusercontent.com/42849855/143663907-5eddff8c-fcf8-41fe-b63d-6ca77b807519.png" width="500px;" alt="" style="border-radius:50%"/>
     
 
@@ -126,16 +132,30 @@ O **DietaJá** consiste em uma aplicação Desktop criada para facilitar a cria�
 </h3>
 <br><img src="https://user-images.githubusercontent.com/42849855/143726889-bdcf41f4-e7eb-49af-8715-db36b2eff55b.png" width="600px;" alt="" style="border-radius:50%"/>
 
-
 <h1 align="center">
     Programação Orientada a Objetos - POO
 </h1>
 
-## Diagrama Casos de Uso
+<h3 align="center">
+    Diagrama de Casos de Uso
+</h3>
 <br><img src="https://user-images.githubusercontent.com/42849855/143663890-462bcf7a-eb47-4b37-a5f9-09889b04374a.png" width="500px;" alt="" style="border-radius:50%"/>
 
+<h3 align="center">
+    Diagrama da Aplicação Completa
+</h3>
+<br><img src="https://user-images.githubusercontent.com/42849855/143730923-902dc496-59d5-4a05-a4da-aa80051d6e0f.jpg" width="800px;" alt="" style="border-radius:50%"/>
 
- 
+<h3 align="center">
+    Diagrama de Classes
+</h3>
+<br><img src="https://user-images.githubusercontent.com/42849855/143730937-249aa5a0-0d84-4acd-8e0e-df9eb661ed36.jpg" width="800px;" alt="" style="border-radius:50%"/>
+
+<h3 align="center">
+    Diagrama de Dependências
+</h3>
+<br><img src="https://user-images.githubusercontent.com/42849855/143730952-315075b2-b5ea-4ab9-8a97-0122092ba90b.jpg" width="800px;" alt="" style="border-radius:50%"/>
+
 ---
 
-Faculdade - [Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP Câmpus Campinas](https://portal.cmp.ifsp.edu.br/)
+Universidade - [Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP Câmpus Campinas](https://portal.cmp.ifsp.edu.br/)
