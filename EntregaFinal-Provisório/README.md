@@ -108,7 +108,7 @@ O **DietaJá** consiste em uma aplicação Desktop criada para facilitar a cria�
 <h3 align="center">
     Diagrama de Código
 </h3>
-    <br><img src="https://user-images.githubusercontent.com/42849855/143663907-5eddff8c-fcf8-41fe-b63d-6ca77b807519.png" width="500px;" alt="" style="border-radius:50%"/>
+    <br><img src="https://user-images.githubusercontent.com/42849855/143663907-5eddff8c-fcf8-41fe-b63d-6ca77b807519.png" width="900px;" alt="" style="border-radius:50%"/>
     
 
 ##  📐 Padrões de Projeto
