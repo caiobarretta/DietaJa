@@ -142,7 +142,7 @@ O **DietaJá** consiste em uma aplicação Desktop criada para facilitar a cria�
 <br><img src="https://user-images.githubusercontent.com/42849855/143663890-462bcf7a-eb47-4b37-a5f9-09889b04374a.png" width="500px;" alt="" style="border-radius:50%"/>
 
 <h3 align="center">
-    Diagrama da Aplicação Completa
+    Aplicação Completa
 </h3>
 <br><img src="https://user-images.githubusercontent.com/42849855/143730923-902dc496-59d5-4a05-a4da-aa80051d6e0f.jpg" width="800px;" alt="" style="border-radius:50%"/>
 
@@ -152,9 +152,24 @@ O **DietaJá** consiste em uma aplicação Desktop criada para facilitar a cria�
 <br><img src="https://user-images.githubusercontent.com/42849855/143730937-249aa5a0-0d84-4acd-8e0e-df9eb661ed36.jpg" width="800px;" alt="" style="border-radius:50%"/>
 
 <h3 align="center">
-    Diagrama de Dependências
+    Dependências
 </h3>
 <br><img src="https://user-images.githubusercontent.com/42849855/143730952-315075b2-b5ea-4ab9-8a97-0122092ba90b.jpg" width="800px;" alt="" style="border-radius:50%"/>
+
+<h3 align="center">
+    Dependências entre Camadas e Classes
+</h3>
+<br><img src="https://user-images.githubusercontent.com/42849855/143874024-10c8a17c-ecf0-4155-9d8b-eb9aeb432ef0.jpg" width="800px;" alt="" style="border-radius:50%"/>
+
+<h3 align="center">
+    Relação entre Camadas Completo
+</h3>
+<br><img src="https://user-images.githubusercontent.com/42849855/143874135-ec2cdb98-278f-4072-b4e2-9554fc1b8797.jpg" width="900px;" alt="" style="border-radius:50%"/>
+
+<h3 align="center">
+    Relação entre Classes e Camadas
+</h3>
+<br><img src="https://user-images.githubusercontent.com/42849855/143874275-362ef4cc-cd37-4f48-a761-7bd217e46b5f.jpg" width="900px;" alt="" style="border-radius:50%"/>
 
 ---
 
