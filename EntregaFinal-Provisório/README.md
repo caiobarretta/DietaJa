@@ -145,7 +145,7 @@ O **DietaJá** consiste em uma aplicação Desktop criada para facilitar a cria�
     Diagrama de Código
 </h3>
     <p align="center">
-        <br><img src="https://user-images.githubusercontent.com/42849855/143663907-5eddff8c-fcf8-41fe-b63d-6ca77b807519.png" width="900px;" alt="" style="border-radius:50%"/>
+        <br><img src="https://user-images.githubusercontent.com/7398046/143960037-8f303786-9a87-4d98-a98a-19a28e22b5c7.png" width="900px;" alt="" style="border-radius:50%"/>
     </p>
 
 <h1 align="center">
@@ -239,7 +239,7 @@ O **DietaJá** consiste em uma aplicação Desktop criada para facilitar a cria�
 </p>
 
 <h3 align="center">
-    Diagrama Completo (Relacionamentos de Classe somente Dependências)
+    Diagrama Completo
 </h3>
 
 <p align="center">
